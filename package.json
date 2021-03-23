@@ -1,5 +1,5 @@
 {
-  "name": "t-service-template",
+  "name": "t-chat-service",
   "version": "1.0.0",
   "main": "./src/index.ts",
   "license": "MIT",
